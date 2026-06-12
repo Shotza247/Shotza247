@@ -126,19 +126,17 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 
 # 🌱 Currently Learning
 
-| Technology | Focus |
-|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Data Enginering/Science/Analytics & Automation |
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) **Azure Fundementals** | AZ-900 Certification |
-| ![Azure ML Studio](https://img.shields.io/badge/Azure%20ML%20Studio-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) **Azure ML Studio** | Up-skill on Azure Data Science Solutions |
-| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) **DataBricks** | Platform Playground | 
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** | NoSQL DB for LLM/NLP/AI-infused Projects |
-| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) **Supabase** | RDB (postgres arch) for Projects |
-
+| Technology | Focus |   | IBM Tools |
+|---|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Data Enginering/Science/Analytics & Automation |  | watsonx.ai L3 |
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) **Azure Fundementals** | AZ-900 Certification |  | watsonx.data L4 |
+| ![Azure ML Studio](https://img.shields.io/badge/Azure%20ML%20Studio-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) **Azure ML Studio** | Up-skill on Azure Data Science Solutions |  | CP4D/ IBM Data Fabric / MDM |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) **DataBricks** | Platform Playground | | watsonx Orchestrate |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** | NoSQL DB for LLM/NLP/AI-infused Projects |  | watsonx.data Intelligence/Integration L3 |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) **Supabase** | RDB (postgres arch) for Projects |  | IBM BOB L3 |
 ---
 
 ## 📊 GitHub Stats
---
 
 <div align=center>
 
@@ -161,6 +159,7 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shotza247)
 
 </div>
+
 ---
 
 <div align="center">
