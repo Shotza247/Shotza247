@@ -172,7 +172,15 @@ Objective : Full End-to-End Capstone Project
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shotza247&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c1f&title_color=7B61FF&icon_color=00a3e0&text_color=a0b4cc)
 
+<<<<<<< HEAD
 ![My GitHub Streak](https://githubstreakstats-8uzrsviiv-jabulani-ndlovu-s-projects.vercel.app/?user=Shotza247&ring=2108FF&fire=EB1D05&stroke=EB5454&currStreakLabel=128904)]
+=======
+<<<<<<< HEAD
+![My GitHub Streak](https://githubstreakstats-8uzrsviiv-jabulani-ndlovu-s-projects.vercel.app/?user=Shotza247&ring=2108FF&fire=EB1D05&stroke=EB5454&currStreakLabel=128904)
+=======
+![My GitHub Streak](https://githubstreakstats-8uzrsviiv-jabulani-ndlovu-s-projects.vercel.app/?user=Shotza247&ring=2108FF&fire=EB1D05&stroke=EB5454&currStreakLabel=128904)]
+>>>>>>> 08b3bb601004b779c3868239598e7c0cb10f69bc
+>>>>>>> b512569b743135d4db4d7c18e3c32c2f6b092fdb
 
 </div>
 
