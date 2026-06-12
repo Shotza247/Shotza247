@@ -1,15 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER — upload header.svg to your repo and reference it like this -->
-<img src="./gitbanner.png" alt="Tech Stack Banner_JSh0tza247" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 👋 Hi, I'm Jabulani Ndlovu👋
+# Hi, I'm Jabulani Ndlovu👋
 
 **Data & AI Engineer Intern | Aspiring Agentic AI & Analytics Engineer** 
 
@@ -17,9 +8,30 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 
 </div>
 
---- 
+---   
+<div align="center">
+  
+# 💼 Experience
 
-### 🚀 Current Career Focus
+</div>  
+
+## IBM — Data & AI Engineering Intern
+
+- Building enterprise data pipelines using IBM Watsonx.data, AI-enabled analytics workflows using IBM watsonx Orchestrate and watsonx.ai, intelligent automation solutions, and agentic systems that help demonstrate how data can be prepared, governed, integrated, and automated to support business outcomes.
+
+## 🔧 Currently Working On
+
+- 📚 **Back-End AI Engineering Intern** — Starting 1 July with FlyRank.ai 
+-- Objective : Full End-to-End Capstone Project
+
+- 📊 **Data Analytics & Engineering** — Local Data pipelines, Databricks pipelines, and building small ML/AI-enabled insights streamlit powered apps
+- 📈 **Self-taught python** — navigating the advanced features and libraries within python to elevate my current skill-set
+- 🌐 **Personal brand** — improving my writing (Documentation), speaking (Stakeholder/Business-value communication)
+- TODO: Building in public <button>(Coming Soon...)</button>
+
+---
+
+## 🚀 Current Career Focus
 - Agentic AI Systems
 - Analytics Engineering
 - Data Engineering
@@ -29,20 +41,9 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 
 ---
 
-## 📡 How to Reach Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/LethuNsibande)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabulani-ndlovu-628578182/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/LethuNsibande)
-
-</div>
-
----
 <div align=center>
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 </div>
 
@@ -123,24 +124,7 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 
 ---
 
-## 💼 Experience
-**IBM — Data & AI Engineering Intern**
-
-- Building enterprise data pipelines using IBM Watsonx.data, AI-enabled analytics workflows using IBM watsonx Orchestrate, intelligent automation solutions, and agentic systems that help demonstrate how data can be prepared, governed, integrated, and automated to support business outcomes.
-
-## 🔧 Currently Working On
-
-- 📚 **Back-End AI Engineering Intern** — Starting 1 July with FlyRank.ai 
-Objective : Full End-to-End Capstone Project
-
-📊 **Data Analytics & Engineering** — Local Data pipelines, Databricks pipelines, and building small ML/AI-enabled insights streamlit powered apps
-- 📈 **Self-taught python** — navigating the advanced features and libraries within python to elevate my current skill-set
-- 🌐 **Personal brand** — improving my writing (Documentation), speaking (Stakeholder/Business-value communication)
-- TODO: Building in public <button>(Coming Soon...)</button>
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 | Technology | Focus |
 |---|---|
@@ -153,25 +137,30 @@ Objective : Full End-to-End Capstone Project
 
 ---
 
-## 🌍 Volunteer Work
-
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Student%20Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://studentambassadors.microsoft.com/)
-
----
-
 ## 📊 GitHub Stats
+--
 
 <div align=center>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shotza247&layout=compact&theme=tokyonight&hide_border=true&bg_color=060c1f&title_color=7B61FF&text_color=a0b4cc)
-</br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shotza247&ring=2108FF&fire=EB1D05&stroke=EB5454&currStreakLabel=128904)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shotza247&layout=compact&theme=tokyonight&hide_border=true&bg_color=060c1f&title_color=7B61FF&text_color=a0b4cc)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shotza247&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c1f&title_color=7B61FF&icon_color=00a3e0&text_color=a0b4cc)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shotza247&ring=2108FF&fire=EB1D05&stroke=EB5454&currStreakLabel=128904)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 </div>
 
+---
 
+## 📡 How to Reach Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabulani-ndlovu-628578182/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shotza247)
+
+</div>
 ---
 
 <div align="center">
