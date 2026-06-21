@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="Sequence_MCP.png" />
 # Hi, I'm Jabulani Ndlovu👋
 
 **Data & AI Engineer Intern | Aspiring Agentic AI & Analytics Engineer** 
