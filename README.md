@@ -62,7 +62,6 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
 **Data & Analytics**
 
 - Heavy Interaction:
@@ -96,10 +95,10 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 
 ![Watsonx.ai](https://img.shields.io/badge/Watsonx.ai-BE95FF?style=flat-square&logo=ibm&logoColor=black)
 ![Azure ML Studio](https://img.shields.io/badge/Azure%20ML%20Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=flat-square&logo=probot&logoColor=white)
-![NL to SQL](https://img.shields.io/badge/Natural%20Language%20to%20SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-4479A1?style=flat-square&logo=robot&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-FF4B4B?style=flat-square&logo=testinglibrary&logoColor=white)
 
 **Frameworks & Platforms**
@@ -122,6 +121,8 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
