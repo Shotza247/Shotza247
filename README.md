@@ -1,5 +1,5 @@
 <div align="center">
-<img src="RealTime-Tax Analytics dashbaord.png" />
+<img src="Scheduling Agent Workflow.png" />
   
 # Hi, I'm Jabulani Ndlovu👋
 
