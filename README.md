@@ -124,11 +124,7 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat-square&logo=postman&logoColor=white)
 
----
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03b22526-3398-48bd-9dc7-865eef05eec7" data-share-badge-host="https://www.credly.com"></div>
-
----
+---------
 
 # 🌱 Currently Learning
 
