@@ -126,6 +126,10 @@ I build data-driven and AI-powered solutions that transform complex data into ac
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03b22526-3398-48bd-9dc7-865eef05eec7" data-share-badge-host="https://www.credly.com"></div>
+
+---
+
 # 🌱 Currently Learning
 
 | Technology | Focus |   | IBM Tools |
